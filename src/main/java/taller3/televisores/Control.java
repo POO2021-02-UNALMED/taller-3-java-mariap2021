@@ -46,7 +46,7 @@ public class Control {
 			return;
 		}
 		else {
-			tv.canal ++;
+			tv.canal --;
 		}
 	}
 	
