@@ -100,7 +100,7 @@ public class TV {
 			return;
 		}
 		else {
-			canal ++;
+			canal --;
 		}
 	}
 	
